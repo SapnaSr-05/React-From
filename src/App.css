@@ -1,0 +1,14 @@
+.home-content h1{
+    font-size: 56px;
+    font-weight: 600;
+    margin: -3px 0;
+    opacity: 0;
+    animation: slideRight 1s ease forwards;
+    animation-delay: 1s;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: blue;
+    text-align: center;
+}
+/* App.css */
+
